@@ -1,0 +1,25 @@
+{
+  "name": "private-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight, privacy-first AI chat app powered by Ollama",
+  "scripts": {
+    "dev": "next dev --port 3100",
+    "build": "next build",
+    "start": "next start --port 3100",
+    "setup": "node setup.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.553.0",
+    "next": "^16.1.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}
