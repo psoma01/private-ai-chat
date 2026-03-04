@@ -13,12 +13,15 @@ You type.  A local model — IBM Granite, Gemma, or any model Ollama supports
 — responds. Nothing is saved. No session history. No database writes.
 No cloud calls. When you close the tab, the conversation is gone.
 
+![Private Chat Interface](docs/screenshot-chat.png)
+
 That's not a limitation. That's the design.
 
 You can switch models mid-session using the built-in model picker and
 compare responses to the same question — all without a single byte
 leaving your machine.
 
+![Model Settings](docs/screenshot-settings.png)
 
 ## Features
 
