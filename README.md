@@ -6,6 +6,20 @@ Chat with any locally installed AI model. Everything runs on your machine — no
 
 **No data stored. No cloud APIs. Session-only.**
 
+## What This Is
+
+A minimal, private chat application that runs entirely on your machine. Your code.
+You type.  A local model — IBM Granite, Gemma, or any model Ollama supports
+— responds. Nothing is saved. No session history. No database writes.
+No cloud calls. When you close the tab, the conversation is gone.
+
+That's not a limitation. That's the design.
+
+You can switch models mid-session using the built-in model picker and
+compare responses to the same question — all without a single byte
+leaving your machine.
+
+
 ## Features
 
 - **Chat** — Free-form conversation with your local AI model
